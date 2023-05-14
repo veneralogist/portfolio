@@ -1,0 +1,27 @@
+body{
+    background-color:#EEEEEE;
+}
+h1{
+    font-weight: bolder;
+    color:#070A52;
+}
+
+h2{
+    color:#070A52;
+}
+p{
+   color: #1D267D;
+   margin-bottom: 5%;
+}
+.centered{
+    text-align: center;
+}
+a{
+    display:block;
+    margin:3%;
+}
+img{
+    width:20%;
+    height:auto;
+    margin:3% ;
+}
